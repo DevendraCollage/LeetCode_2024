@@ -9,3 +9,4 @@
 | 5   | 22/09/24 | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/?envType=daily-question&envId=2024-09-22) | Hard       | [Java](./September/LC440.java)  | September |
 | 6   | 25/09/24 | [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/?envType=daily-question&envId=2024-09-25)               | Hard       | [Java](./September/LC2416.java) | September |
 | 7   | 25/09/24 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/description/)                                                             | Medium     | [Java](./September/LC2707.java) | September |
+| 8   | 26/09/24 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/description/?envType=daily-question&envId=2024-09-26)                                                   | Medium     | [Java](./September/LC729.java)  | September |
