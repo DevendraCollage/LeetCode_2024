@@ -12,3 +12,4 @@
 | 8   | 26/09/24 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/description/?envType=daily-question&envId=2024-09-26)                                                   | Medium     | [Java](./September/LC729.java)  | September |
 | 9   | 27/09/24 | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/submissions/1403955060/?envType=daily-question&envId=2024-09-27)                                      | Medium     | [Java](./September/LC731.java)  | September |
 | 10  | 28/09/24 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/?envType=daily-question&envId=2024-09-28)                                   | Medium     | [Java](./September/LC641.java)  | September |
+| 11  | 29/09/24 | [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/?envType=daily-question&envId=2024-09-29)                              | Hard       | [Java](./September/LC432.java)  | September |
